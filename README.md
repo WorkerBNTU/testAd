@@ -6,7 +6,7 @@
 
    ```bash
    git clone https://github.com/WorkerBNTU/testAd.git
-   cd logs
+   cd testAd
    ```
 
 2. **Установите зависимости:**
