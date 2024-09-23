@@ -1,0 +1,3 @@
+.env
+.venv
+/testAd/db.sqlite3
